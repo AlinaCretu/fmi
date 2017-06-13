@@ -15,3 +15,16 @@
 ### Extra
 
 - [videoclipuri în care un prof explică algoritmul simplex](https://www.youtube.com/playlist?list=PLsT7nZ75A_jHcycFw_3WZfZ-snzGLg61q)
+
+# Tehnici de Optimizare - Cristian Niculescu
+
+## Model Examen (16.05.2017)
+Fiecare student primește un i unic:
+
+| inf (-10x1 - ix2)
+| x1 + x3 = 1
+| 20x1 + x2 + x4 = 100
+
+a) Aflați mulțimea soluțiilor optime și valoarea optimă.
+b) Scrieți problema duală.
+c) Aflați o soluție optimă și valoarea optimă pentru problema duală.
